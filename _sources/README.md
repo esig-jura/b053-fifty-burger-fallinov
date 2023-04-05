@@ -9,7 +9,7 @@
 Votre objectif est de créer le site **Fifty Burgers** 
 en vous basant sur :
 
-* Les textes du document Word `Recette du fifty burger.docx`
+* Les textes du document Word `Recette du fifty burger.docx`sssss
 * Les images `burger-viande-hachee.jpg` et `fifty-burgers.png`
 * La maquette graphique `maquette-fifty-burgers.png`
 * Les consignes du designer, du prochain chapitre
